@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Imaginato</string>
+
+    <!--Login screen-->
+
+    <!--Input field-->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <!--Buttons-->
+    <string name="btnLogin">Login</string>
+
+    <!--Validation messages-->
+    <string name="error_empty_username">Please Enter Username</string>
+    <string name="error_length_username">Username max limit is 30 characters</string>
+
+    <string name="error_empty_password">Please Enter Password</string>
+    <string name="error_length_password">Password max limit is 16 characters</string>
+
+</resources>
